@@ -1,0 +1,134 @@
+#page title
+page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+
+# App Info
+ios_app_id                                :                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+
+appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+playstore_link                            :                                           # Enter Google Play Store URL.
+presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+                                                                                      # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
+
+app_icon                                  : assets/AppIcon.png                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  : Swappify                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : Swappfiy: AI Face Swap & Photo Editor<br><br>Turn your selfies and photos into professional, creative, and viral content with Swappfiy — the ultimate AI photo/video editor and face swap app that’s redefining image transformation. Whether you’re a creator, influencer, or just having fun, our smart tools make magic out of pixels.<br><br>- Most Popular Features:<br><br>- Face Swap (Multi & V4)<br>Seamlessly replace faces in any photo or video using our AI-powered face swap technology. Perfectly preserve lighting, expressions, and facial angles with our cutting-edge multi-face swap and head swap V4 tools.<br><br>- AI Video Effects<br>Instant, cinematic videos from your photos. Transform yourself into superheroes, legends, and cinematic icons with one tap. Create viral, scroll-stopping videos with AI effects.<br><br>- Face Retoucher<br>Enhance portraits with advanced AI that removes shadows, smooths skin, and restores lost details for flawless, natural results — ideal for social media and professional headshots.<br><br>- Image Upscale (HD Enhancer)<br>Increase your photo resolution without losing quality. Perfect for printing, sharing, or reviving old pics.<br><br>- AI Video Face Swap & Live Portrait<br>Replace faces in videos or bring static photos to life with real expressions and movement. Powered by AI video generator and live animation technology.<br><br>- Copy & Paste Image Elements<br>Take objects or people from one photo and place them into another — so real, it looks like it was always there.<br><br>Create Custom AI Scenes<br><br>* At the Gym/Yoga – Fitness & wellness-ready content<br>* At Home or Café – Lifestyle or cozy setups<br>* Travel Backgrounds – Instantly be at the beach, mountains, or city<br>* Fashion Editorial Look – High-end shoot in seconds<br>* Glamorous Events – Appear at red carpets and galas<br>* Professional Office – Great for LinkedIn, press kits, CVs<br>* Resting/In Bed – For wellness & sleep-related branding<br>* Product Showcases – Place yourself using or holding a product<br><br>- Try On Clothes<br>Use AI to apply different outfits to your photos. Perfect for virtual styling, e-commerce previews, or fun transformations.<br><br>- Power Features for Creators<br>* Merge 2 Images — Blend ideas into one artistic masterpiece.<br>* Add Characters — Describe who’s in your scene; AI brings it to life.<br>* Build Your Own Scene — Fully custom compositions with AI assistance.<br>* Batch Multitask Editing — Apply edits to up to 10 images in one go.<br><br>- Why Users Love Swappfiy<br>* Face Swap app with best-in-class AI<br>* AI photo/video generator and editor for quick, high-quality results<br>* Intuitive UI with pro-level output<br>* Regular updates with new scenes and features<br><br>Start using Swappfiy today and see why it’s a top choice among AI image creators, social influencers, and everyday users.<br><br>Download Swappfiy – the smarter AI photo & face swap editor.
+
+enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
+
+
+
+# Information About Yourself
+your_name                                 : © 2025 Swappfiy. All rights reserved.
+your_link                                 :                      
+your_city                                 : Dubai                                
+email_address                             : swappifysandbox@gmail.com
+facebook_username                         :                                           
+instagram_username                        : 
+twitter_username                          : 
+github_username                           : 
+youtube_username                          :
+
+
+
+# Feature List                            Edit, add or remove features to be presented.
+features                                  :
+
+  - title                                 : AI Face Swap (Photo & Video)
+    description                           : Seamlessly swap faces in photos and videos with realistic lighting, expressions, and angles using our advanced AI.
+    fontawesome_icon_name                 : fa-solid fa-user-astronaut
+
+  - title                                 : AI Video Effects & Live Portraits
+    description                           : Transform photos into cinematic videos, bring portraits to life, or turn yourself into superheroes and legends.
+    fontawesome_icon_name                 : fa-solid fa-film
+
+  - title                                 : Face Retoucher & HD Enhancer
+    description                           : Smooth skin, restore details, and upscale photos to high resolution for flawless portraits and professional shots.
+    fontawesome_icon_name                 : fa-solid fa-magic
+
+  - title                                 : Copy, Paste & Merge Scenes
+    description                           : Move objects or people between photos, blend two images, or build full AI-generated custom scenes with ease.
+    fontawesome_icon_name                 : fa-solid fa-layer-group
+
+  - title                                 : Virtual Try-On & Styling
+    description                           : Apply AI-powered outfits to your photos for e-commerce previews, fashion looks, or fun transformations.
+    fontawesome_icon_name                 : fa-solid fa-tshirt
+
+  - title                                 : Custom AI Backgrounds
+    description                           : Instantly place yourself at gyms, cafés, beaches, offices, or fashion runways with realistic AI-generated backgrounds.
+    fontawesome_icon_name                 : fa-solid fa-image
+
+  - title                                 : Power Tools for Creators
+    description                           : Batch editing up to 10 images, add AI-generated characters, and create artistic, viral-ready content in seconds.
+    fontawesome_icon_name                 : fa-solid fa-bolt
+
+  - title                                 : Modern UI & Regular Updates
+    description                           : Sleek and intuitive interface with pro-level results, plus continuous updates bringing new AI models and features.
+    fontawesome_icon_name                 : fa-solid fa-check
+
+
+
+# Theme Settings
+topbar_color                              : "#0d0d0f"      # Almost black for sleek look
+topbar_transparency                       : 0.2
+topbar_title_color                        : "#ffffff"      # White logo/title stands out
+
+cover_image                               : assets/swappfiy-header.png   # Replace with Swappfiy hero/AI visual
+cover_overlay_color                       : "#1a1a1d"      # Dark overlay for cinematic effect
+cover_overlay_transparency                : 0.65
+
+device_color                              : black          # Keeps phone mockup clean & premium
+
+body_background_color                     : "#0f0f12"      # Dark theme background
+
+link_color                                : "#7a5cff"      # Neon purple-blue accent
+
+app_title_color                           : "#ffffff"
+app_price_color                           : "#7a5cff"      # Accent color for CTA buttons
+app_description_color                     : "#d1d1d6"      # Light gray for readability
+
+feature_title_color                       : "#ffffff"
+feature_text_color                        : "#b0b0b5"      # Softer light gray for body text
+
+feature_icons_foreground_color            : "#ffffff"      # White icons on gradient background
+feature_icons_background_color            : "#7a5cff"      # Accent circle behind icons
+
+social_icons_foreground_color             : "#ffffff"
+social_icons_background_color             : "#292932"      # Subtle dark-gray buttons
+
+footer_text_color                         : "#808080"      # Muted gray footer text
+
+
+
+
+
+
+
+
+
+
+
+
+
+####################################################
+### Jekyll Configuration. No need to touch this. ###
+####################################################
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :compressed # You might prefer to minify using :compressed
+
+# Exclude these files from your production _site
+exclude:
+  - LICENSE
+  - README.md
+  - CNAME
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Markdown rendering
+markdown: kramdown
