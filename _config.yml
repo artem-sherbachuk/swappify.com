@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/AppIcon.png                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Swappify                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Swappfiy: Swappfiy: AI Face Swap & Photo Editor – Turn your selfies and photos into professional, creative, and viral content with Swappfiy — the ultimate AI photo/video editor and face swap app. Features include multi & V4 face swap, AI video effects, face retoucher, HD image upscale, AI video face swap & live portrait, copy & paste elements, custom AI scenes (gym, travel, fashion, events, office, lifestyle), virtual try-on clothes, merge images, add characters, build custom scenes, and batch editing. Loved by creators, influencers, and everyday users for its pro-level output, intuitive UI, and regular updates. Download Swappfiy today — the smarter AI photo & face swap editor.
+app_description                           : Swappfiy: Swappfiy: AI Face Swap & Photo Editor – Turn your selfies and photos into professional, creative, and viral content with Swappfiy — the ultimate AI photo/video editor and face swap app.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
