@@ -1,5 +1,5 @@
 #page title
-page_title                                : Swappify                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Nano                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 6736878816                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -11,16 +11,16 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/AppIcon.png                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Swappify                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Nano                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : AI Face Swap & Photo Editor<br><br>Turn your selfies and photos into professional, creative, and viral content with Swappfiy — the ultimate AI photo/video editor and face swap app that’s redefining image transformation. Whether you’re a creator, influencer, or just having fun, our smart tools make magic out of pixels.<br><br>
+app_description                           : AI Photo Editor & AI Video Generator<br><br>Turn your selfies and photos into professional, creative, and viral content with Nano — the ultimate AI photo/video editor and face swap app that’s redefining image transformation. Whether you’re a creator, influencer, or just having fun, our smart tools make magic out of pixels.<br><br>
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : © 2025 Swappfiy. All rights reserved.
+your_name                                 : © 2025 Nano. All rights reserved.
 your_link                                 :                      
 your_city                                 : Kiev                                
 email_address                             : swappifysandbox@gmail.com
